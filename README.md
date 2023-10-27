@@ -1,4 +1,6 @@
-# CSE203
+## CSE203- Logic and Proofs. 
 
-This is my project for the course on CSE203. 
-We have coded, in coq, a program to show that there always exists a winning strategy in the game of nim for those who start first
+I have coded, in coq, a program to show that there always exists a winning strategy in the game of nim for those who start first
+
+## CSE102 - Advanced Python. 
+I have coded, in Python, a program to compress images.
